@@ -1,0 +1,11 @@
+openapi: "3.0.3"
+
+info:
+    title: "anpi"
+    version: "0.0.0"
+
+tags:
+    - name: "users"
+      description: "ユーザーの操作"
+
+paths:
