@@ -7,5 +7,7 @@ info:
 tags:
     - name: "users"
       description: "ユーザーの操作"
+    - name: "auth"
+      description: "認証"
 
 paths:
